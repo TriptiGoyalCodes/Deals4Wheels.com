@@ -85,31 +85,31 @@ area can buy or sell his/her car. </p>
    <h3 align="center"> DEVELOPERS</h3>
   <!-- <div class="skill-row">
     <img class="developerpic" src="images/developerpic.png" alt="">
-    <h3 class="skill1">PRIYANSHI SINGH</h3>
+    <h3 class="skill1">ANNU BALHARA</h3>
     <p class="about">Hey There! I am the front end developer of this website which is built using different web technologies langauges like HTML, CSS, Javascript and Bootstrap.
-I love listening music playing cricket and swimming. Apart from that if you want to know more about me then you can follow me on my social media platforms.
+I love playing Racing Games and swimming. Apart from that if you want to know more about me then you can follow me on my social media platforms.
     </p>
     <div class="container-fluid">
-         <a href="https://www.facebook.com/profile.php?id=100010064672478" class="icon"><i class="social-icon fab fa-facebook-f"></i></a>
-      <a href="https://twitter.com/piyush_dalmia11" class="icon"><i class="social-icon fab fa-twitter"></i></a>
-    <a href="https://www.instagram.com/its.piyushdalmia/" class="icon"> <i class="social-icon fab fa-instagram"></i></a>
-    <a href="https://www.linkedin.com/in/piyush-dalmia-7448121a4/" class="icon"> <i class="social-icon fab fa-linkedin-in size:3x"></i></a>
-    <a href="https://www.youtube.com/channel/UCF_mDfupuiK5WkPxkSfQRHw" class="icon"><i class="social-icon fab fa-youtube"></i></a>
-    <a href="mailto:piyushdalmia9900@gmail.com" class="icon"><i class="social-icon fas fa-envelope"></i></a>
+         <a href="#" class="icon"><i class="social-icon fab fa-facebook-f"></i></a>
+      <a href="#" class="icon"><i class="social-icon fab fa-twitter"></i></a>
+    <a href="#/" class="icon"> <i class="social-icon fab fa-instagram"></i></a>
+    <a href="#" class="icon"> <i class="social-icon fab fa-linkedin-in size:3x"></i></a>
+    <a href="#" class="icon"><i class="social-icon fab fa-youtube"></i></a>
+    <a href="mailto:annubalhara1224@gmail.com" class="icon"><i class="social-icon fas fa-envelope"></i></a>
 
     </div>
   </div>  -->
   <br>
   <div class="skill-row">
     <img class="developerpic1" src="images/developerpic.png" alt="">
-    <h3 class="skill2">ANNU BALHARA</h3>
+    <h3 class="skill2">TRIPTI GOYAL</h3>
     <p class="about">Hey There!  I am the front end developer of this website which is built using different web technologies langauges like HTML, CSS, Javascript and Bootstrap.
-      I love playing chess and bycycle riding. Apart from that if you want to know more about me then you can follow me on my social media platforms.</p>
-    <!-- <a href="https://www.facebook.com/sushant.chaudhary.7359" class="icon"><i class="social-icon fab fa-facebook-f"></i></a>
-    <a href="https://twitter.com/Sushant20217841?s=08" class="icon"><i class="social-icon fab fa-twitter"></i></a>
-  <a href="https://www.instagram.com/sushant.choudhary_1/" class="icon"> <i class="social-icon fab fa-instagram"></i></a> -->
-  <a href="#" class="icon"> <i class="social-icon fab fa-linkedin-in size:3x"></i></a>
-  <a href="mailto:annubalhara1224@gmail.com" class="icon"><i class="social-icon fas fa-envelope"></i></a>
+      I love listening music and playing cricket. Apart from that if you want to know more about me then you can follow me on my social media platforms.</p>
+    <!-- <a href="https://www.facebook.com/Tggtripti/" class="icon"><i class="social-icon fab fa-facebook-f"></i></a>
+    <a href="https://twitter.com/TggTripti?s=09" class="icon"><i class="social-icon fab fa-twitter"></i></a>
+  <a href="https://www.instagram.com/triptigoyaal/" class="icon"> <i class="social-icon fab fa-instagram"></i></a> -->
+  <a href="https://www.linkedin.com/in/tripti-goyal-66198217a/" class="icon"> <i class="social-icon fab fa-linkedin-in size:3x"></i></a>
+  <a href="mailto:tggtripti@gmail.com" class="icon"><i class="social-icon fas fa-envelope"></i></a>
   </div>
 
 <br><br><br><br>
